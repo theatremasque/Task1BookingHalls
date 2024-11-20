@@ -1,0 +1,5 @@
+You are developing a hotel booking website. 
+The site lists 200,000 hotels worldwide. Hotels can be booked up to 330 days in advance. 
+On the client side, a calendar is displayed where users can select travel dates. 
+You need to create a backend function that returns the minimum and maximum selectable dates for the calendar.
+  
